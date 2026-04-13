@@ -5,13 +5,13 @@ count=0
 isNum=False
 
 #GENERATING SYS NUMBER
-sysGenNum=random.randrange(1,100)
+#sysGenNum=random.randrange(1,100)
+sysGenNum=22 #HARD CODING TO PREVENT GITHUB ACTIONS INPUT ERROR/REMOVE THIS LINE WHEN WHILE RUNNING CODE
 #GENERATING NUMBER IN RANGE 1-100
 print("If you guess in less then 8 inputs , you are a genius!")
 while not isNum:
     #userInpNum=int(input("Enter number you are guessing (Must be an integer) : "))
-    userInpNum=22
-    #HARD CODING TO PREVENT GITHUB ACTIONS INPUT ERRORs
+    userInpNum=22 #HARD CODING TO PREVENT GITHUB ACTIONS INPUT ERROR/REMOVE THIS LINE WHEN WHILE RUNNING CODE
     if userInpNum==sysGenNum:
         print(f"Matched!\bYour entered num is :[{userInpNum}]\nSystem generated num is [{sysGenNum}]")
         isNum=True

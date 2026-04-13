@@ -108,3 +108,15 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'master' set up to track 'origin/master'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[master 1f533e9] 1. Adding python mini projects [][DprintTriangle and guessTheNumber game]
+ 4 files changed, 54 insertions(+), 1 deletion(-)
+ create mode 100644 guessTheNumber.py
+ create mode 100644 printTriangle.py
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   4f76824..1f533e9  master -> master
+branch 'master' set up to track 'origin/master'.
+logs saved in git_log.txt
+adding git files ..
