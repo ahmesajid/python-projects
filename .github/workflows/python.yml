@@ -1,19 +1,24 @@
-name: PYTHON CI
+
+name: Python CI
 
 on:
-	push:
-		branches:
-			- master
-			
+  push:
+    branches:
+      - master
+
 jobs:
-	run:
-		runs-on: ubuntu-latest
-		
-		steps:
-		- uses: actions/checkout@v3
-		
-		-uses: actions/setup-python@v4
-		with:
-			python-version: '3.10'
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run Script
+        run: python checkErrorLogFile.py
 			
-		-run: python checkErrorLogFile.py

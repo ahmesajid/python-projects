@@ -46,3 +46,14 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'master' set up to track 'origin/master'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[master 6c76156] .yml renamed from .yml.txt to .yml
+ 2 files changed, 12 insertions(+)
+ rename .github/workflows/{python.yml.txt => python.yml} (100%)
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   68cca94..6c76156  master -> master
+branch 'master' set up to track 'origin/master'.
+logs saved in git_log.txt
+adding git files ..
