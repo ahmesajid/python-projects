@@ -20,3 +20,17 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'master' set up to track 'origin/master'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'commitAndPush.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[master bedb9fe] commiting files 4/12/2026 new python project(password checker)s
+ 5 files changed, 69 insertions(+), 1 deletion(-)
+ create mode 100644 .gitignore
+ create mode 100644 checkErrorLogFile.py
+ create mode 100644 file_logs.txt
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   e10b039..bedb9fe  master -> master
+branch 'master' set up to track 'origin/master'.
+logs saved in git_log.txt
+adding git files ..
