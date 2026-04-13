@@ -2,7 +2,8 @@
 from colorama import Fore,Style 
 
 logFileName="file_logs.txt"
-keywordToCheckInLogFile=input("Enter keyword to check in log file (i.e error/fail)\n").strip().lower()
+#keywordToCheckInLogFile=input("Enter keyword to check in log file (i.e error/fail)\n").strip().lower()
+keywordToCheckInLogFile="Error".strip().lower()
 error_count=0
 
 try:
