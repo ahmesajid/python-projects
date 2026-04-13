@@ -34,3 +34,15 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'master' set up to track 'origin/master'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'commitAndPush.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[master 68cca94] 1. yml file created for github actions & commitAndPush.sh code modified[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[2[. [C[Dc[Dco[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D3.[D[D[D check error logs which read error count in logs file added
+ 3 files changed, 36 insertions(+), 2 deletions(-)
+ create mode 100644 .github/workflows/python.yml.txt
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   bedb9fe..68cca94  master -> master
+branch 'master' set up to track 'origin/master'.
+logs saved in git_log.txt
+adding git files ..
