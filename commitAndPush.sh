@@ -7,7 +7,7 @@ echo "adding git files .." | tee -a "$LOGFILE"
 git add . 2>&1 | tee -a "$LOGFILE"
 
 echo "committing files .." | tee -a "$LOGFILE"
-git commit -m "${MSG}" 2>&1 | tee -a "$LOGFILE"
+git commit -m "${MSG}s" 2>&1 | tee -a "$LOGFILE"
 
 echo "pushing code .." | tee -a "$LOGFILE"
 git push -u origin master 2>&1| tee -a "$LOGFILE"

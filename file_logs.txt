@@ -1,0 +1,15 @@
+******************
+******************
+
+CHECKING DB STATUS..
+MAKING CONNECTION..
+TAKING MORE TIME..
+
+ERROR MAKINNG CONNECTION WITH DB..
+TRYING AGAIN..
+ERROR MAKING CONNECTION ..
+
+CONNECTION FAILED / ERROR
+
+********************
+********************

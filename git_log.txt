@@ -1,2 +1,22 @@
 
 adding git files ..
+warning: in the working copy of 'commitAndPush.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'pract.sh', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[master e10b039] commiting files 4/12/2026 new python project(password checker)
+ 8 files changed, 147 insertions(+), 9 deletions(-)
+ create mode 100644 capEachLetter.py
+ create mode 100644 checkPassStrength.py
+ create mode 100644 commitAndPush.sh
+ delete mode 100644 demo.txt
+ create mode 100644 functionsPractice.py
+ create mode 100644 git_log.txt
+ delete mode 100644 main.py
+ create mode 100644 pract.sh
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   2d680f9..e10b039  master -> master
+branch 'master' set up to track 'origin/master'.
+logs saved in git_log.txt
+adding git files ..
