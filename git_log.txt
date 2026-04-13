@@ -120,3 +120,11 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'master' set up to track 'origin/master'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[master 0cd230c] fixing big [guessTheNumber.py]
+ 2 files changed, 15 insertions(+), 3 deletions(-)
+pushing code ..
+fatal: unable to access 'https://github.com/ahmesajid/python-projects.git/': Could not resolve host: github.com
+logs saved in git_log.txt
+adding git files ..
