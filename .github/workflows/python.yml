@@ -28,5 +28,4 @@ jobs:
           echo "🚀 Triggering Auto Deploy..."
 
           curl -X POST \
-          https://www.pythonanywhere.com/api/v0/user/${{ secrets.USERNAME }}/consoles/ \
-          -H "Authorization: Token ${{ secrets.API_TOKEN }}"
+          https://www.pythonanywhere.com/api/v0/user/${{ secrets.USERNAME }}/consoles/ -H "Authorization: Token ${{ secrets.API_TOKEN }}"
