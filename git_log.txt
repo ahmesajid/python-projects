@@ -170,3 +170,14 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'master' set up to track 'origin/master'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[master 98552bd] strucure change
+ 2 files changed, 11 insertions(+)
+ rename .github/workflows/main.py => main.py (100%)
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   01a00d2..98552bd  master -> master
+branch 'master' set up to track 'origin/master'.
+logs saved in git_log.txt
+adding git files ..
