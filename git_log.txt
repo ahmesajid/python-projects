@@ -301,3 +301,15 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'master' set up to track 'origin/master'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of '.github/workflows/python.yml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[master 4357459] added project weatherChecker.py to check weather of any city using wttr.in api
+ 3 files changed, 33 insertions(+), 1 deletion(-)
+ create mode 100644 weatherChecker.py
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   023fde4..4357459  master -> master
+branch 'master' set up to track 'origin/master'.
+logs saved in git_log.txt
+adding git files ..
