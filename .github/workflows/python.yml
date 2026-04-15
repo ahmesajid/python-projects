@@ -23,3 +23,8 @@ jobs:
         
       - name: Run Script
         run: python guessTheNumber.py
+
+      - name: CD Step (Deploy Simulation)
+              run: |
+                echo "🚀 CD Triggered"
+                echo "👉 Now go to PythonAnywhere and run deploy.sh"
