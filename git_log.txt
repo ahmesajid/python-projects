@@ -201,3 +201,13 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'master' set up to track 'origin/master'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[master 899c010] [A[Byml updated
+ 2 files changed, 13 insertions(+), 3 deletions(-)
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   619202c..899c010  master -> master
+branch 'master' set up to track 'origin/master'.
+logs saved in git_log.txt
+adding git files ..
