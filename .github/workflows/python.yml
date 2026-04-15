@@ -27,5 +27,4 @@ jobs:
       - name: CD Step (Deploy Simulation)
           echo "🚀 Triggering Auto Deploy..."
 
-          curl -X POST \
-          https://www.pythonanywhere.com/api/v0/user/${{ secrets.USERNAME }}/consoles/ -H "Authorization: Token ${{ secrets.API_TOKEN }}"
+          curl -X POST https://www.pythonanywhere.com/api/v0/user/${{ secrets.USERNAME }}/consoles/ -H "Authorization: Token ${{ secrets.API_TOKEN }}"
