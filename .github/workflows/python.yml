@@ -25,7 +25,7 @@ jobs:
         run: python guessTheNumber.py
 
       - name: CD Step (Deploy Simulation)
-        echo "🚀 Triggering Auto Deploy..."
+          echo "🚀 Triggering Auto Deploy..."
 
           curl -X POST \
           https://www.pythonanywhere.com/api/v0/user/${{ secrets.USERNAME }}/consoles/ \
