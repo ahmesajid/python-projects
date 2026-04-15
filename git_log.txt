@@ -159,3 +159,14 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'master' set up to track 'origin/master'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[master 01a00d2] main.py changes
+ 2 files changed, 12 insertions(+)
+ create mode 100644 .github/workflows/main.py
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   a3abad2..01a00d2  master -> master
+branch 'master' set up to track 'origin/master'.
+logs saved in git_log.txt
+adding git files ..
