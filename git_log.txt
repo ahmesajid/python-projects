@@ -313,3 +313,13 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'master' set up to track 'origin/master'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[master 52029f9] requirements.txt updated
+ 2 files changed, 14 insertions(+), 1 deletion(-)
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   4357459..52029f9  master -> master
+branch 'master' set up to track 'origin/master'.
+logs saved in git_log.txt
+adding git files ..

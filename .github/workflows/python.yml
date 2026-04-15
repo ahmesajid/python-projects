@@ -22,7 +22,7 @@ jobs:
         run: pip install -r requirements.txt
         
       - name: Run Script
-        run: python weatherChecker.py
+        run: python weatherChecker.py johansberg
 
       - name: CD Step (Deploy Simulation)
         run: |
