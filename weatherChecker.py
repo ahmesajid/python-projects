@@ -5,6 +5,7 @@ city=sys.argv[1]
 #TAKES SECOND ARG FROM CONSOLE INPUT 
 
 API_KEY="b821c6b740917ba3bfc841e932771429"
+#GEN YOU KEY AND TRY THIS LINK
 #url=f"http://api.openweathermap.org/data/2.5/weather?q=Lahore&appid={API_KEY}"
 url2=f"https://wttr.in/{city}/?format=j1" #J1 JSON FORMAT
 
