@@ -334,3 +334,14 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'master' set up to track 'origin/master'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of '.github/workflows/python.yml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'commitAndPush.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[main 3b8db92] simple file change comments added
+ 4 files changed, 4 insertions(+), 2 deletions(-)
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   fe170df..3b8db92  main -> main
+branch 'main' set up to track 'origin/main'.
+logs saved in git_log.txt
