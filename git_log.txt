@@ -400,3 +400,14 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'main' set up to track 'origin/main'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[main f271f2e] simle code
+ 2 files changed, 14 insertions(+)
+ create mode 100644 test.py
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   f80aba4..f271f2e  main -> main
+branch 'main' set up to track 'origin/main'.
+logs saved in git_log.txt
+adding git files ..
