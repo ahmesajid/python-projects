@@ -452,3 +452,13 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'main' set up to track 'origin/main'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[main 4040a5f] single line test webhook
+ 2 files changed, 12 insertions(+), 1 deletion(-)
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   3566ab8..4040a5f  main -> main
+branch 'main' set up to track 'origin/main'.
+logs saved in git_log.txt
+adding git files ..
