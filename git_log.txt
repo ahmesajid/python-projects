@@ -474,3 +474,22 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'main' set up to track 'origin/main'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'watch', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'watch93kbo8fa.tmp', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[main 2b0471c] created send email alert module in check errors file which reads error count in logs file -  must devops practice
+ 10 files changed, 247 insertions(+), 2 deletions(-)
+ create mode 100644 This Advice Impacted 10,000,000 People (Jim Rohn Seminar).mp4
+ create mode 100644 __pycache__/emailCredentials.cpython-313.pyc
+ create mode 100644 downloadYtVideo.py
+ create mode 100644 emailCredentials.py
+ create mode 100644 readErrorsAndAlertEmail.py
+ create mode 100644 watch
+ create mode 100644 watch93kbo8fa.tmp
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   025808b..2b0471c  main -> main
+branch 'main' set up to track 'origin/main'.
+logs saved in git_log.txt
+adding git files ..
