@@ -503,3 +503,14 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'main' set up to track 'origin/main'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[main ffb17be] simple update
+ 2 files changed, 10 insertions(+)
+ delete mode 100644 This Advice Impacted 10,000,000 People (Jim Rohn Seminar).mp4
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   8b9a145..ffb17be  main -> main
+branch 'main' set up to track 'origin/main'.
+logs saved in git_log.txt
+adding git files ..
