@@ -493,3 +493,13 @@ To https://github.com/ahmesajid/python-projects.git
 branch 'main' set up to track 'origin/main'.
 logs saved in git_log.txt
 adding git files ..
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+committing files ..
+[main 8b9a145] file added
+ 2 files changed, 20 insertions(+), 1 deletion(-)
+pushing code ..
+To https://github.com/ahmesajid/python-projects.git
+   2b0471c..8b9a145  main -> main
+branch 'main' set up to track 'origin/main'.
+logs saved in git_log.txt
+adding git files ..
